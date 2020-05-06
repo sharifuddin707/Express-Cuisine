@@ -1547,3 +1547,16 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+
+
+/*Last minute add in*/
+#hero h5{
+  font-family: "Helvetica", sans-serif !important;
+}
+#about h5{
+  color: #3FE41F;
+}
+#why-us h5{
+  font-family: "Helvetica", sans-serif !important;
+}
